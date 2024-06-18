@@ -1,7 +1,7 @@
 import os
 
 # Simulated user input
-user_input = f"C:\\Users\\Ykommineni\\Documents\\GitHub\\snyk_hello_world\\etc\\passwd.txt"
+user_input = '/etc/passwd'
 
 # Vulnerable code
 def read_file(filename):
